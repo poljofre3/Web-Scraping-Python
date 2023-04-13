@@ -10,4 +10,4 @@ The resulting dataset can be used to analyze trends in sports running shoes pric
 
 Overall, this project showcases the power of web scraping in extracting valuable data from websites. With the right tools and techniques, it is possible to gain insights into consumer behavior and market trends that would be difficult or impossible to obtain through other means. By using Python and Beautiful Soup, we can automate the process of data extraction and make it easier to access and analyze the data we need.
 
-Note: The web scraping of the website used in this project is solely for educational purposes
+Note: The web scraping of the website in this project is solely used for educational purposes
